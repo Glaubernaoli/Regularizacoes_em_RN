@@ -25,7 +25,7 @@ Apresentação para a disciplina de Redes Neurais e Algorítmos Genéticos com o
 
 <div align="justify">
 
-`Métodos de Regularização em Redes Neurais.pdf`: Slides disponibilizados
+`Métodos de Regularização em Redes Neurais.pdf`: Slides disponibilizados (em amexo)
 
 </div>
 
